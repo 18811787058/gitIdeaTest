@@ -6,6 +6,5 @@ public class TestGit {
         System.out.println("this is test git");
         System.out.println("this is test brach");
         System.out.println("this write by master");
-        System.out.println("this is write by hxl brach");
     }
 }
